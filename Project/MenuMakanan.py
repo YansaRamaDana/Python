@@ -29,7 +29,6 @@ while ulang.upper() == 'Y':
     print(' --------------------------------------')
 
     pilihan = int(input('Masukkan menu pilihan anda: '))
-    pilihan = int(input('Masih ada yang lain: '))
 
     menu = {
         1: ("Sambak Ayam", 50000),
