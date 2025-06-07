@@ -16,7 +16,7 @@ os.system('cls')
 
 print('        ======================================')
 print('                    TOKO ANOMALI')
-print('               Jl. Agak Laen no. 444')
+print('               Jl. Agal Laen no. 444')
 print('          07-06-2025  14:23:15')
 print('               No. Struk: 9213196308')
 print('        ======================================')
