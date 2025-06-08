@@ -208,19 +208,18 @@ for x in range(1, 21):
 
 
 # ----------------------------
-# 14. MINI PROJECT: TIMER MUNDUR DETIK
+# 14. MINI PROJECT: WAKTU MUNDUR MUNDUR 
 # ----------------------------
 
 import time
 
-# Detik Waktu
 time_saya = int(input('Masukkan waktu dalam detik: '))
 
 for  x in range(time_saya, 0, -1):
     detik = x % 60
-    print(f'00:00:0{detik}')
+    menit = int(x / 60) %60
+    jam = int(x / 3600) 
+    print(f'{jam:02}:{menit:02}:{detik:02}')
     time.sleep(1)
 
 print('TITID BANGAU')
-
-
