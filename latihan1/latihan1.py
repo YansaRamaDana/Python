@@ -102,10 +102,19 @@ print(f'Halo {nama}, tahun depan kamu akan berusia {usiamu}')
 # ----------------------------
 # 8. FUNCTION (FUNGSI)
 # ----------------------------
-def sapa(nama):
-    print("Halo, " + nama)
+import os
+os.system('cls')
 
-sapa("Budi")
+def sapa(nama):
+    print(f'Halo {nama}')
+    print('Semangat yah')
+    print('Kamu Pasti bisa')
+
+sapa('Bagas Titik Kumpull')
+sapa('Daffa Martabak')
+sapa('Agung Buzcut')
+
+# nama Opsional yahh
 
 # ----------------------------
 # 9. MENGGUNAKAN MODULE
