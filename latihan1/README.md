@@ -3,3 +3,4 @@ Tidak semua Syntax Python yang ada di file "latihan1.py" saya pahami semua. hany
 Saya hanya mengingatkan bahwa Syntax Python yang saya share, hanya sebagian kecil saja dari berbagai Syntax Python lainnya.
 Saya akan terus update materi Syntax Python yang saya pelajari di sini.
 Terima Kasih, Selamat belajar Python!!!
+Saya Belajar di : https://youtu.be/ix9cRaBkVe0?si=jdWHAXJepjKSU1OM
