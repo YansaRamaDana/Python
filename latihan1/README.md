@@ -4,7 +4,7 @@ Saya hanya mengingatkan bahwa Syntax Python yang saya share, hanya sebagian keci
 Saya akan terus update materi Syntax Python yang saya pelajari di sini.
 Syntax Python yang saya dapatkan di file "latihan1.py" itu bersumber dari vidio Chanel Youtube : https://youtu.be/ix9cRaBkVe0?si=U1OaUM6JzboDbpVg
 Disclaimer : Tidak Semua yang ada di file "latihan1.py" sama persis dengan yang ada di vidio tersebut
-saya hanya menulis Syntax Python yang ringkas agar memudahkan anda untuk memahaminya
+saya hanya menulis Syntax Python yang ringkas agar memudahkan anda untuk memahaminya.
 Terima Kasih, Selamat belajar Python!!!
 
 
